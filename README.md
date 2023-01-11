@@ -3,13 +3,13 @@
 A simple personal blog website, that lets you add blogs to the home page.
 
 
-* Key Points/ Learnings:
+<em>* Key Points/ Learnings:</em>
  - Using routing parameters in express
  - Using Lodash with node to implement kebab case in the url
  - Creating pages dynamically using templating
  
  
-* Dependencies:
+<em>* Dependencies:</em>
  - body-parser
  - ejs
  - express
